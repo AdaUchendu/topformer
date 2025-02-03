@@ -18,9 +18,9 @@ Illustration of the Authorship Attribution (AA) problem with multiple authors - 
 * TopBERT_attn
 * Gaussian-BERT
 * RoBERTa
-* TopFormer
-* TopRoBERTa_attn
 * Gaussian-RoBERTa
+* TopFormer
+* TopFormer_attn
 
 # Datasets #
 You can download these datasets here:
